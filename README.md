@@ -1,5 +1,4 @@
-# glowing-tribble
-Movie Database App
+#Movie Database App
 
 
 Project guide can be found at: https://www.youtube.com/watch?v=ufodJVcpmps
